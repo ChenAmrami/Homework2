@@ -1,0 +1,4 @@
+During the work on the site I encountered all kinds of technical difficulties of how to implement the idea I have.
+The main difficulty was moving the navigation bar to mobile and making sure everything is in place as soon as the screen is reduced.
+I researched on the Internet and discovered new elements of design in CSS and in particular the fact that you can define a variable with a certain value such as color or font size and insert it later as part of the design instead of re-registering the color or font size each time.
+My way of working was that every time I add something I check what's different, how it's different and whether I like it. In this way I progressed slowly but carefully, I think it prevented me from encountering more difficulty later on.
